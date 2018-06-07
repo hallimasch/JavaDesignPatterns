@@ -3,6 +3,6 @@ Welche der folgenden Punkte sind die **Nachteile**, wenn für das Entenverhalten
  - [x] B. Verhaltensänderung zur Laufzeit sind schwierig.
  - [ ] C. Wir können die Enten nicht zum Tanzen bringen.
  - [x] D. Es ist nicht so einfach, Kenntnisse über das Verhalten aller Enten zu erlangen.
- - [ ] Enten können nicht gleichzeitig fliegen und quaken.
- - [x]  Änderungen können sich unbeabsichtigt auf andere Enten auswirken.
+ - [ ] E. Enten können nicht gleichzeitig fliegen und quaken.
+ - [x] F. Änderungen können sich unbeabsichtigt auf andere Enten auswirken.
 ---
